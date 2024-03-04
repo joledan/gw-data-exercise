@@ -21,7 +21,7 @@ showtext_opts(dpi = 300)
 showtext_auto()
 
 ##### set up main directory #####
-main <- "C:/Users/jgole/OneDrive/Documents/GitHub/gw-data-exercise"
+main <- #<LINK TO MAIN FOLDER HERE>
 plots <- paste(main, "plots", sep = "/")
 
 # remove scientific notation
